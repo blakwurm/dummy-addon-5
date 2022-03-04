@@ -1,1 +1,1 @@
-test addon 5
+dummy addon 5
